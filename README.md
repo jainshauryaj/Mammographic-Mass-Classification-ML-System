@@ -519,10 +519,6 @@ def validate_medical_models(X_train, y_train, X_test, y_test):
 - **Performance Optimization**: 90.8% (efficiency improvements)
 - **Clinical Impact**: 97.5% (based on medical metrics)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Medical Research Community**: For foundational mammographic research
